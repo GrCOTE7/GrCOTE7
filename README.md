@@ -11,7 +11,7 @@
 Be happy !
 
 ---
-- 👋  Salut, je suis un vieux passionné français, mais cependant toujours et encorte étudiant...
+- 👋  Salut, je suis un vieux passionné français, mais cependant toujours et encore étudiant...
   Né Lionel CÔTE, devenu Lionel Adel CÔTE, et sur le web : GrCOTE7 (Soit GC7)
 - 👀 Je suis intéressé par... ???
 
