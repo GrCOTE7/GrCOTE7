@@ -18,7 +18,7 @@ Be happy !
    → (Même [*Frontier*](https://www.silicon.fr/supercalculateurs-10-systemes-puissants-465864.html) ne saurait le savoir...)
 - 🌱 Je suis actuellement plongé dans l'apprentissage d'une pateforme nommée Apify
 - 💞️ Je suis particulièrement intéressé par toute collaboration sur n'importe quel dépôt
-- 📫 Comment me contacter ...? P.R. !!! (Pull request [Demande de fusion] dans l'uu de mes récent dépôts !) ;-)
+- 📫 Comment me contacter ...? P.R. !!! (Pull request [Demande de fusion] dans l'un de mes dépôts récent !) ;-)
 
   Soyez Heureux !
 
