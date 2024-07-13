@@ -4,7 +4,7 @@
   
 - 👀 I’m interested in ... ??? → (Even [*AI*](https://www.silicon.fr/supercalculateurs-10-systemes-puissants-465864.html) can't know that...)
   
-- 🌱 I’m currently learning to use of Apify
+- 🌱 I’m currently learning to use of Apify with Python langage
   
 - 💞️ I’m looking to collaborate on any repository
   
@@ -18,7 +18,7 @@ Be happy !
   
 - 👀 Je suis intéressé par... ??? → (Même [*IA*](https://www.silicon.fr/supercalculateurs-10-systemes-puissants-465864.html) ne saurait le savoir...)
   
-- 🌱 Je suis actuellement plongé dans l'apprentissage d'une pateforme nommée Apify
+- 🌱 Je suis actuellement plongé dans l'apprentissage d'une pateforme nommée Apify avec le langage Python
   
 - 💞️ Je suis particulièrement intéressé par toute collaboration sur n'importe quel dépôt
   
