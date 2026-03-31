@@ -1,14 +1,14 @@
-- 👋 i, I'm an old French geek and still a student...
+- 👋 Hi, I'm an old French geek and still a student...
   
-  Born Lionel CÔTE, became Lionel Adel CÔTE, and on the web : GrCOTE7 (Alias GC7)
+  Born Lionel CÔTE, became Lionel Adel CÔTE, and on the web : GrCOTE7 (aka GC7)
   
-- 👀 I’m interested in ... ??? → (Even [*AI*](https://www.silicon.fr/supercalculateurs-10-systemes-puissants-465864.html) can't know that...)
+- 👀 I’m interested in ... ??? → (Even [*AI*](https://www.silicon.fr/supercalculateurs-10-systemes-puissants-465864.html) can't figure that out...)
   
-- 🌱 I’m currently learning to use of Apify with Python langage
+- 🌱 I’m currently learning how to train AI models (With Python, its future Mojo and librairies like Tensorflow, etc...)
   
-- 💞️ I’m looking to collaborate on any repository
+- 💞️ I’m looking to collaborating on any repository
   
-- 📫 How to reach me ...? PR !!! (**P**ull **R**equest in one of my more recent repository!) ;-)
+- 📫 How to reach me ...? PR !!! (**P**ull **R**equest in one of my more recent repositories!) ;-)
 
 Be happy !
 
@@ -18,11 +18,11 @@ Be happy !
   
 - 👀 Je suis intéressé par... ??? → (Même [*IA*](https://www.silicon.fr/supercalculateurs-10-systemes-puissants-465864.html) ne saurait le savoir...)
   
-- 🌱 Je suis actuellement plongé dans l'apprentissage d'une pateforme nommée Apify avec le langage Python
+- 🌱 Je suis actuellement plongé dans l'apprentissage d'entrainement de modèles d'IA (Avec Python, et son futur, alias, Mojo and des librairies telles que Tensorflow, etc...)
   
 - 💞️ Je suis particulièrement intéressé par toute collaboration sur n'importe quel dépôt
   
-- 📫 Comment me contacter ...? PR !!! (**P**ull **R**equest [Demande de fusion] dans l'un de mes dépôts récent !) ;-)
+- 📫 Comment me contacter ...? PR !!! (**P**ull **R**equest [Demande de fusion] dans n'importe lequel de mes dépôts récents (Parmis quasi 200...) !) ;-)
 
   Soyez Heureux !
 
