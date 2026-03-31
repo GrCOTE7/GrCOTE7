@@ -18,7 +18,7 @@ Be happy !
   
 - 👀 Je suis intéressé par... ??? → (Même [*IA*](https://www.silicon.fr/supercalculateurs-10-systemes-puissants-465864.html) ne saurait le savoir...)
   
-- 🌱 Je suis actuellement plongé dans l'apprentissage d'entrainement de modèles d'IA (Avec Python, et son futur, alias, Mojo and des librairies telles que Tensorflow, etc...)
+- 🌱 Je suis actuellement plongé dans l'apprentissage d'entrainement de modèles d'IA (Avec Python, et son futur, alias, Mojo et ses librairies telles que Tensorflow, etc...)
   
 - 💞️ Je suis particulièrement intéressé par toute collaboration sur n'importe quel dépôt
   
