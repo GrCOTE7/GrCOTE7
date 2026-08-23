@@ -14,9 +14,11 @@ Be happy !
 
 ---
 
-![General Statistics](https://gitcard-studio.creativecode.com.co/api/stats?username=GrCOTE7&theme=dark&locale=en)
 
 <div align="center" dir="auto">
+  
+  ![General Statistics](https://gitcard-studio.creativecode.com.co/api/stats?username=GrCOTE7&theme=dark&locale=en)
+  
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://git-hub-stats-card-generator.vercel.app/api/svg?username=GrCOTE7&theme=default&chart=bars">
     <img src="https://git-hub-stats-card-generator.vercel.app/api/svg?username=GrCOTE7&theme=default&chart=bars" width="49%" alt="GrCOTE7's GitHub stats" style="max-width: 100%;">
   </a>
