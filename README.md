@@ -16,7 +16,20 @@ Be happy !
 
 ![General Statistics](https://gitcard-studio.creativecode.com.co/api/stats?username=GrCOTE7&theme=dark&locale=en)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GrCOTE7)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center" dir="auto">
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://git-hub-stats-card-generator.vercel.app/api/svg?username=GrCOTE7&theme=default&chart=bars">
+    <img src="https://git-hub-stats-card-generator.vercel.app/api/svg?username=GrCOTE7&theme=default&chart=bars" width="49%" alt="GrCOTE7's GitHub stats" style="max-width: 100%;">
+  </a>
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://git-hub-stats-card-generator.vercel.app/api/svg?username=GrCOTE7&type=languages&theme=default&chart=donut">
+    <img src="https://git-hub-stats-card-generator.vercel.app/api/svg?username=GrCOTE7&type=languages&theme=default&chart=donut" width="49%" alt="GrCOTE7's Language stats" style="max-width: 100%;">
+  </a>
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://git-hub-stats-card-generator.vercel.app/api/svg?username=GrCOTE7&type=contributions&theme=default">
+    <img src="https://git-hub-stats-card-generator.vercel.app/api/svg?username=GrCOTE7&type=contributions&theme=default" width="49%" alt="GrCOTE7's Contribution stats" style="max-width: 100%;">
+  </a>
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://git-hub-stats-card-generator.vercel.app/api/svg?username=GrCOTE7&type=top-repos&theme=default">
+    <img src="https://git-hub-stats-card-generator.vercel.app/api/svg?username=GrCOTE7&type=top-repos&theme=default" width="49%" alt="GrCOTE7's Top Repos" style="max-width: 100%;">
+  </a>
+</div>
 
 ---
 - 👋  Salut, je suis un vieux passionné français, mais cependant toujours et encore étudiant...
