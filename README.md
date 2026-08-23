@@ -16,6 +16,8 @@ Be happy !
 
 ![General Statistics](https://gitcard-studio.creativecode.com.co/api/stats?username=GrCOTE7&theme=dark&locale=en)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GrCOTE7)](https://github.com/anuraghazra/github-readme-stats)
+
 ---
 - 👋  Salut, je suis un vieux passionné français, mais cependant toujours et encore étudiant...
   Né Lionel CÔTE, devenu Lionel Adel CÔTE, et sur le web : GrCOTE7 (Soit GC7)
