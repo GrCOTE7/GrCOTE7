@@ -13,6 +13,10 @@
 Be happy !
 
 ---
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GrCOTE7&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+
+---
 - 👋  Salut, je suis un vieux passionné français, mais cependant toujours et encore étudiant...
   Né Lionel CÔTE, devenu Lionel Adel CÔTE, et sur le web : GrCOTE7 (Soit GC7)
   
