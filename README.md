@@ -2,13 +2,13 @@
   
   Born Lionel CÔTE, became Lionel Adel CÔTE, and on the web : GrCOTE7 (aka GC7)
   
-- 👀 I’m interested in ... ??? → (Even [*AI*](https://www.silicon.fr/supercalculateurs-10-systemes-puissants-465864.html) can't figure that out...)
+- 👀 I’m interested in... ??? → (Even [*AI*](https://www.silicon.fr/supercalculateurs-10-systemes-puissants-465864.html) can't figure that out...)
   
-- 🌱 I’m currently learning how to train AI models (With Python, its future Mojo and librairies like Tensorflow, etc...)
+- 🌱 I’m currently learning how to train AI models (with Python, its future Mojo, and libraries like TensorFlow, etc.)
   
-- 💞️ I’m looking to collaborating on any repository
+- 💞️ I’m looking to collaborate on any repository
   
-- 📫 How to reach me ...? PR !!! (**P**ull **R**equest in one of my more recent repositories!) ;-)
+- 📫 How to reach me...? PR !!! (**P**ull **R**equest in one of my more recent repositories!) ;-)
 
 Be happy !
 
@@ -34,8 +34,8 @@ Be happy !
 </div>
 
 ---
-- 👋  Salut, je suis un vieux passionné français, mais cependant toujours et encore étudiant...
-  Né Lionel CÔTE, devenu Lionel Adel CÔTE, et sur le web : GrCOTE7 (Soit GC7)
+- 👋  Salut, je suis un vieux passionné d'informatique français, mais encore et toujours étudiant...
+  Né Lionel CÔTE, devenu Lionel Adel CÔTE, et sur le web : GrCOTE7 (soit GC7)
   
 - 👀 Je suis intéressé par... ??? → (Même [*IA*](https://www.silicon.fr/supercalculateurs-10-systemes-puissants-465864.html) ne saurait le savoir...)
   
@@ -43,7 +43,7 @@ Be happy !
   
 - 💞️ Je suis particulièrement intéressé par toute collaboration sur n'importe quel dépôt
   
-- 📫 Comment me contacter ...? PR !!! (**P**ull **R**equest [Demande de fusion] dans n'importe lequel de mes dépôts récents (Parmis quasi 200...) !) ;-)
+- 📫 Comment me contacter...? PR !!! (**P**ull **R**equest [Demande de fusion] dans n'importe lequel de mes dépôts récents (parmi quasi 200...) !) ;-)
 
   Soyez Heureux !
 
